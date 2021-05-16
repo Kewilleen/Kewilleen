@@ -21,4 +21,8 @@
   <img alt= "My Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=kewilleen&theme=nord" height="125px">
 </p>
 
+-------
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
