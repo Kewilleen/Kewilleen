@@ -6,8 +6,12 @@
 <h3 align="center"><b> Social Media </b></h3>
 
 <p align="center">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devkewi?color=blue&label=%40devkewi&logo=twitter&style=for-the-badge">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCVTRFqwVTWj2N-sqHGKRWcQ?logo=youtube&logoColor=red&style=for-the-badge">
+  <a href="http://twitter.com/devkewi" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/devkewi?color=blue&label=%40devkewi&logo=twitter&style=for-the-badge">
+  </a>
+  <a href="http://youtube.com/devkewi" target="_blank">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCVTRFqwVTWj2N-sqHGKRWcQ?logo=youtube&logoColor=red&style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
