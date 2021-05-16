@@ -12,7 +12,10 @@
 
 <p align="center">
   <h3> Github Contributions </h3>
-  <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=Kewilleen&show_icons=true&theme=nord&hide_title=true" height="125px"> <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kewilleen&theme=nord" height="125px">
+  <img alt= "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=Kewilleen&show_icons=true&theme=nord&hide_title=true">
+  
+  <h3> Top Languages </h3>
+  <img alt= "Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kewilleen&theme=nord&hide_title=true">
   
   <h3> WakaTime </h3>
   <img alt= "My Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=kewilleen&theme=nord" height="125px">
