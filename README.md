@@ -30,7 +30,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2021 - 26 September, 2021
+Week: 21 September, 2021 - 27 September, 2021
 
 TypeScript   9 mins          █████████████████████████   100.00 % 
 ```
